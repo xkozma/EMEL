@@ -1,0 +1,863 @@
+fileFormatVersion: 2
+guid: 1015136d0e8c1c24e9ae30d1644752a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1155147997804703978
+    second: log3_0
+  - first:
+      213: -1502357432010144059
+    second: log3_1
+  - first:
+      213: 954414997403490865
+    second: log3_2
+  - first:
+      213: 5130842305246372413
+    second: log3_3
+  - first:
+      213: 8873302959303583472
+    second: log3_4
+  - first:
+      213: -7425059564017491880
+    second: log3_5
+  - first:
+      213: 8138620387896141569
+    second: log3_6
+  - first:
+      213: 6941005301542900448
+    second: log3_7
+  - first:
+      213: 1096808011472588478
+    second: log3_8
+  - first:
+      213: 3022767318746826656
+    second: log3_9
+  - first:
+      213: 5717733913412079500
+    second: log3_10
+  - first:
+      213: -2310119560802019153
+    second: log3_11
+  - first:
+      213: 5633959043395200367
+    second: log3_12
+  - first:
+      213: -212617427778714337
+    second: log3_13
+  - first:
+      213: 6318413276232695184
+    second: log3_14
+  - first:
+      213: 7305199246646090949
+    second: log3_15
+  - first:
+      213: 2624274402719577559
+    second: log3_16
+  - first:
+      213: 7514634948102427659
+    second: log3_17
+  - first:
+      213: 1143590775543358870
+    second: log3_18
+  - first:
+      213: -5081594920763218904
+    second: log3_19
+  - first:
+      213: 3372363817253792625
+    second: log3_20
+  - first:
+      213: 367547498134950228
+    second: log3_21
+  - first:
+      213: -1773080637759548451
+    second: log3_22
+  - first:
+      213: 213910570953089240
+    second: log3_23
+  - first:
+      213: 9178273629575170798
+    second: log3_24
+  - first:
+      213: 8181612683492964199
+    second: log3_25
+  - first:
+      213: -2032164128071901613
+    second: log3_26
+  - first:
+      213: -3433201547326442983
+    second: log3_27
+  - first:
+      213: 1476820546551883892
+    second: log3_28
+  - first:
+      213: 5102258049488017873
+    second: log3_29
+  - first:
+      213: -6039095664832041835
+    second: log3_30
+  - first:
+      213: 8060237114025539720
+    second: log3_31
+  - first:
+      213: 8602752707426039585
+    second: log3_32
+  - first:
+      213: -6904381935725048238
+    second: log3_33
+  - first:
+      213: 618522083786881430
+    second: log3_34
+  - first:
+      213: 4945504103639657289
+    second: log3_35
+  - first:
+      213: 8632892382204278805
+    second: log3_36
+  - first:
+      213: -6279111849908827301
+    second: log3_37
+  - first:
+      213: 3263254695400381711
+    second: log3_38
+  - first:
+      213: 826995705672464666
+    second: log3_39
+  - first:
+      213: 996141535922309638
+    second: log3_40
+  - first:
+      213: -3349815836961743772
+    second: log3_41
+  - first:
+      213: 8097793471092534572
+    second: log3_42
+  - first:
+      213: -8715701800660874780
+    second: log3_43
+  - first:
+      213: 5146405335484311709
+    second: log3_44
+  - first:
+      213: 8811452746470091299
+    second: log3_45
+  - first:
+      213: 4887830812651296740
+    second: log3_46
+  - first:
+      213: 7778327330573307698
+    second: log3_47
+  - first:
+      213: 6094664223694301954
+    second: log3_48
+  - first:
+      213: 6670600401154952745
+    second: log3_49
+  - first:
+      213: -1601643815221825733
+    second: log3_50
+  - first:
+      213: 4397519245370589898
+    second: log3_51
+  - first:
+      213: 3193940895334642525
+    second: log3_52
+  - first:
+      213: 468114555864597429
+    second: log3_53
+  - first:
+      213: -194491324041012575
+    second: log3_54
+  - first:
+      213: 8657028506881964627
+    second: log3_55
+  - first:
+      213: 2771471753389699614
+    second: log3_56
+  - first:
+      213: -6043694427805525659
+    second: log3_57
+  - first:
+      213: 4768123189755383559
+    second: log3_58
+  - first:
+      213: -6738956261758530916
+    second: log3_59
+  - first:
+      213: -78087088895403436
+    second: log3_60
+  - first:
+      213: 7630792789135016306
+    second: log3_61
+  - first:
+      213: 7564981405859435001
+    second: log3_62
+  - first:
+      213: -7310163515281105866
+    second: log3_63
+  - first:
+      213: 8789688678280464248
+    second: log3_64
+  - first:
+      213: -6395098286120003713
+    second: log3_65
+  - first:
+      213: 8915773197091124303
+    second: log3_66
+  - first:
+      213: 8102959736215369120
+    second: log3_67
+  - first:
+      213: -1453534067924193529
+    second: log3_68
+  - first:
+      213: -2886275045903429777
+    second: log3_69
+  - first:
+      213: -2427988718539023876
+    second: log3_70
+  - first:
+      213: -1054333717802422130
+    second: log3_71
+  - first:
+      213: 1986536647302118133
+    second: log3_72
+  - first:
+      213: -621693374608648230
+    second: log3_73
+  - first:
+      213: -4445846307795845061
+    second: log3_74
+  - first:
+      213: -2021117143977543691
+    second: log3_75
+  - first:
+      213: 7351429046610015493
+    second: log3_76
+  - first:
+      213: -787006933778615322
+    second: log3_77
+  - first:
+      213: -4649820768962920095
+    second: log3_78
+  - first:
+      213: 1855420606012831683
+    second: log3_79
+  - first:
+      213: 3722349551894930280
+    second: log3_80
+  - first:
+      213: -8808039137093999889
+    second: log3_81
+  - first:
+      213: 4540043785594119659
+    second: log3_82
+  - first:
+      213: -7855782832006045053
+    second: log3_83
+  - first:
+      213: -4402695250123958893
+    second: log3_84
+  - first:
+      213: -1746497851478789556
+    second: log3_85
+  - first:
+      213: -6722119819176966498
+    second: log3_86
+  - first:
+      213: 3924785738615479274
+    second: log3_87
+  - first:
+      213: 3901497429614965584
+    second: log3_88
+  - first:
+      213: -6844278756582985692
+    second: log3_89
+  - first:
+      213: -8032039315802411162
+    second: log3_90
+  - first:
+      213: -6615476600975695002
+    second: log3_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: log3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae03728dbf8e70010800000000000000
+      internalID: 1155147997804703978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c60e5b10ed862be0800000000000000
+      internalID: -1502357432010144059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a5a882263ce3d00800000000000000
+      internalID: 954414997403490865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a1ca64e9643740800000000000000
+      internalID: 5130842305246372413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f666b9570e442b70800000000000000
+      internalID: 8873302959303583472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ee9a8aa3e4f890800000000000000
+      internalID: -7425059564017491880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072d4e5f1032f070800000000000000
+      internalID: 8138620387896141569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e25196fb87635060800000000000000
+      internalID: 6941005301542900448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe40a64315a83f00800000000000000
+      internalID: 1096808011472588478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a780907cd603f920800000000000000
+      internalID: 3022767318746826656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f812d43b8795f40800000000000000
+      internalID: 5717733913412079500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d6bdbf7ec0ffd0800000000000000
+      internalID: -2310119560802019153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65aba466e7df2e40800000000000000
+      internalID: 5633959043395200367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1541307391ac0df0800000000000000
+      internalID: -212617427778714337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d36f9f5638fa750800000000000000
+      internalID: 6318413276232695184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9acd9208416560800000000000000
+      internalID: 7305199246646090949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5304f4aab4b6420800000000000000
+      internalID: 2624274402719577559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04916acba8594860800000000000000
+      internalID: 7514634948102427659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695eca850c9dedf00800000000000000
+      internalID: 1143590775543358870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824aa7fc75c8a79b0800000000000000
+      internalID: -5081594920763218904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17beac4360b0dce20800000000000000
+      internalID: 3372363817253792625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451da60908ac91500800000000000000
+      internalID: 367547498134950228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: log3_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3183cdd80c467e0800000000000000
+      internalID: -1773080637759548451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
